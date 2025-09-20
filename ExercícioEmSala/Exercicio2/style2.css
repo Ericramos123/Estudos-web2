@@ -1,0 +1,14 @@
+#retverde{
+    background-color: green;
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+    border: 3px solid black;
+}
+#retamarelo {
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    border: 3px solid black;
+
+}
